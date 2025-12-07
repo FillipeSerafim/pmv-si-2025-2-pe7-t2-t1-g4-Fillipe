@@ -39,7 +39,7 @@ Acesso em Produção (quando estiver disponível)
 
 # Código
 
-<li><a href="src/main.py"> Código Fonte</a></li>
+<li><a href="src/api/main.py"> Código Fonte</a></li>
 
 # Apresentação
 
