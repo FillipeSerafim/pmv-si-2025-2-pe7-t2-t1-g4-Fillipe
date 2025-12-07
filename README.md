@@ -39,8 +39,8 @@ Acesso em Produção (quando estiver disponível)
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="src/main.py"> Código Fonte</a></li>
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="src/Apresentação Versão Final.html"> Apresentação da solução</a></li>
