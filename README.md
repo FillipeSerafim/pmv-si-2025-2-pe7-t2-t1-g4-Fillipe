@@ -34,8 +34,10 @@ Explorar e conceituar o desenvolvimento de um algoritmo de recomendação de ven
 ## Instruções de utilização
 
 Acesso em Produção (quando estiver disponível)
-* URL: https://<seu-dominio>/...
-* Status: online/homologação
+* Link Serviço Servidor Azure: https://pucwebaplicacaog4.azurewebsites.net/ 
+* Link API: https://pucwebaplicacaog4.azurewebsites.net/predict 
+* Link Apresentação: https://pucwebaplicacaog4.azurewebsites.net/ApresentaçãoVersãoFinal.html 
+* Status: online
 
 # Código
 
